@@ -1,8 +1,3 @@
-####################################################
-# DVrouter.py
-# Name:
-# HUID:
-#####################################################
 
 from router import Router
 from packet import Packet
