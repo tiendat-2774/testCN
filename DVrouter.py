@@ -11,7 +11,7 @@ class DVrouter(Router):
     override.
     """
 
-## Hàm 0: Doanh (khởi tạo)
+
 
     def __init__(self, addr, heartbeat_time):
         Router.__init__(self, addr)  # Initialize base class - DO NOT REMOVE
